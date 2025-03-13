@@ -1,6 +1,6 @@
-# 🔭  EVM-Dex-Swap-Liquidity-Staking  🔭
+# 🔭  EVM-Dex **Swap-Liquidity-Staking** Platform  🔭
 
-EVM-Dex-Swap is a decentralized exchange (DEX) platform built to support token swaps, staking, and liquidity management across all EVM-compatible blockchains. This project provides a toolkit for developers to implement and customize their own decentralized exchange solutions with integrated features like staking contracts and liquidity pool management.
+_EVM-Dex **Swap-Liquidity-Staking** Platform_ is a decentralized exchange (DEX) platform built to support token swaps, staking, and liquidity management across all EVM-compatible blockchains. This project provides a toolkit for developers to implement and customize their own decentralized exchange solutions with integrated features like staking contracts and liquidity pool management.
 Also can intergrate with other dex swap like wolfswap and uniswap so that provide users the best swap.
 
 
