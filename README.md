@@ -34,6 +34,7 @@ Frontend is opensource.
 To get more functions for frontend, swap & liquidity & staking smart contracts and liquidity-admin-managemant site, Feel free to contact Me!
 
 # 👨‍💻 Author
-### 📞 Telegram: [Meta0xFlip](https://t.me/meta0xflip)   
-https://t.me/Meta0xFlip
+### 📞 Telegram: [0xOpsDev](https://t.me/its0xopsdev)   
+https://t.me/its0xopsdev
+
 
